@@ -1,0 +1,128 @@
+.html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+.border1 {
+  color: black;
+  width: 1500px;
+  background-color: #93a7ac;
+  border: 1px solid black;
+  font-size: 10px;
+  text-align: center;
+}
+
+.border2 {
+  color: black;
+  width: 1500px;
+  background-color: #93a7ac;
+  border: 5px solid black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Opening {
+    color: green;
+    width: 1500px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: left;
+    line-height: 5;
+    background-color: #37c8ab;
+}
+
+  .middle {
+      color: black;
+      width: 1500px;
+      border: 1px solid black;
+      font-size: 60px;
+      text-align: center;
+      background-color: #93a7ac
+}
+
+li {
+    color: blue;
+    width: 500px;
+    font-size: 25px;
+    text-align: left;
+}
+
+h1 {
+    color: black;
+    background-color: #93a7ac;
+    width: 1500px;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 20px 0;
+  }
+
+h2 {
+    color: blue;
+    width: 1500px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    width: 1500px;
+    font-size: 30px;
+    text-align: left;
+}
+
+
+html {
+  background-color: #87deaa;
+}
+
+body {
+  width: 1500px;
+  margin: 0 auto;
+  background-color: #FFccaa;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
+
+  .footeraddress1 {
+    color: black;
+    background-color: #93a7ac;
+    width: 1500px;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+  .footeraddress2 {
+        color: black;
+        background-color: #93a7ac;
+        width: 1500px;
+        font-size: 25px;
+        text-align: center;
+        margin: 0;
+        padding: 10px 0;
+}
+  .footeraddress3 {
+    color: black;
+    background-color: #93a7ac;
+    width: 1500px;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+  .footeraddress4 {
+    color: black;
+    background-color: #93a7ac;
+    width: 1500px;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
